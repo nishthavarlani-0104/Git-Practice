@@ -6,6 +6,10 @@ This repository contains my Git and GitHub practice while learning version contr
 
 
 
+\---
+
+
+
 \## 📚 Topics Covered
 
 
@@ -52,11 +56,35 @@ This repository contains my Git and GitHub practice while learning version contr
 
 
 
+\---
+
+
+
 \## 🎯 Purpose
 
 
 
-This repository was created to practice Git commands and understand version control concepts.
+This repository was created to practice Git commands and understand version control concepts through hands-on exercises.
+
+
+
+\---
+
+
+
+\## 🛠️ Technologies Used
+
+
+
+\- Git
+
+\- GitHub
+
+\- HTML
+
+
+
+\---
 
 
 
@@ -68,9 +96,9 @@ This repository was created to practice Git commands and understand version cont
 
 
 
-M.Sc. Physics with Data Science Student
+🎓 M.Sc. Physics with Data Science
 
 
 
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
 
